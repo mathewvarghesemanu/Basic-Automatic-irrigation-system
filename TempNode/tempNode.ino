@@ -2,7 +2,7 @@
 #include <ThingerESP8266.h>
 
 #define USERNAME "Mak3rspace"
-#define DEVICE_ID "moisturesensor"
+#define DEVICE_ID "Dht11"
 #define DEVICE_CREDENTIAL "Mak3rSpace"
 
 #define SSID "mathew"

@@ -24,7 +24,7 @@ digitalWrite(ledPin, LOW);
   thing.add_wifi(SSID, SSID_PASSWORD);
 
   // digital pin control example (i.e. turning on/off a light, a relay, configuring a parameter, etc)
-  thing["motorcontrol"] << digitalPin(motorPin);
+  thing["motorcontrol"] >> outputValue(digitalRead(motorPin));
 
   thing["ledcontrol"] << digitalPin(ledPin);
   // resource output example (i.e. reading a sensor value)

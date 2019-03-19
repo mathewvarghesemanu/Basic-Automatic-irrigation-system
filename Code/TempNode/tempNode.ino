@@ -6,8 +6,8 @@
 #define DEVICE_ID "Dht11"
 #define DEVICE_CREDENTIAL "Mak3rSpace"
 
-#define SSID "Manu"
-#define SSID_PASSWORD "ambalathil1234"
+#define SSID "coconuts"
+#define SSID_PASSWORD "coconuts"
 
 DHTesp dht;
 ThingerESP8266 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);

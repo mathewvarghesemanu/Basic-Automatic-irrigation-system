@@ -5,8 +5,8 @@
 #define DEVICE_ID "moisturesensor"
 #define DEVICE_CREDENTIAL "Mak3rSpace"
 
-#define SSID "Manu"
-#define SSID_PASSWORD "ambalathil1234"
+#define SSID "coconuts"
+#define SSID_PASSWORD "coconuts"
 //D5 RELAY D6 LED A0 ANALOG
 ThingerESP8266 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 

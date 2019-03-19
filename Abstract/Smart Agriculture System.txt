@@ -1,0 +1,10 @@
+Smart Agriculture System
+
+We live in an era where we are facing shortage in our water supply and other resources, primarily due to the ever increasing population. The ever increasing need to feed all this population is daunting. So there is a need to achieve maximum efficiency in utilising these resources. 
+Water is an important natural resource. The availability of freshwater is decreasing rapidly, that it is often said that if there is a 3rd world war, it'd be for water.
+
+Usually when we do agriculture, the most commonly faced challenge is water scarcity. Also, much of the water is not utilised by plants if we do the usual form of irrigation, ie by pouring to its roots. Advanced irrigation techniques like drip irrigation is starting to gain popularity these days. But they all need human intervention to monitor the process, which is tedious for large systems.
+We introduce our smart farming system as a solution to this.
+We introduce a microcontroller based wireless sensor network(WSN), which actively senses the moisture level of the soil and opens a valve when water moisture is below a threshold and stops when the cutoff level have reached. Thus water wastage is minimized. These sensors can monitor a single plant or an entire area. 
+The temperature and humidity sensors monitor and average these parameters and adjust the threshold levels accordingly. These values along with the soil humidity level is displayed in a dashboard. Thus a farmer can easily monitor this system using the internet.
+Aquaponics and hydroponics are two emerging fields of high efficiency agriculture. Aquaponics use wastewater from fishtanks, which are rich of ammonia due to fish excretion for irrigtion, which results in increased yield. In hydroponics, we spray water containing suitable minerals to the roots of the plants, which are devoid of any soil and is grown in very controlled environments. Both these fields can benefit from the proposed system of smart irrigation.
